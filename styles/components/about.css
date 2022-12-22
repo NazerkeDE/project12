@@ -1,0 +1,61 @@
+.about-inner{
+    display: flex;
+    justify-content: space-between;
+    background-image: url('../../images/bg-pattern.jpg');
+    padding: 100px 0;
+}
+.about-left{
+    background-image: url("../../images/about-big.jpg");
+    width: 30%;
+    background-size: cover;
+    position: relative;
+    margin-left: 80px;
+}
+.about-bg{
+    align-items: center;
+    margin: 0 auto;
+    width: 100%;
+    padding-top: 200px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+}
+.about-bg i{
+    font-size: 100px;
+    color: yellow;
+}
+.about-right{
+    width: 50%;
+    padding-right: 40px;
+}
+.about-right h1{
+    text-align: center;
+    font-size: 50px;
+    color: yellowgreen;
+    font-weight: 900;
+}
+.about-right p{
+    color: #b8b8b8;
+    font-size: 18px;
+    text-align: 1.5;
+    word-spacing:  5px;
+    margin-top: 20px;
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+} 
+.about-icon{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 100px;
+}
+.about-gg h2{
+    color: white;
+    font-size: 20px;
+    font-weight: 800;
+}
+.about-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

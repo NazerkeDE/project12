@@ -1,0 +1,61 @@
+.chef-header{
+    color: white;
+    margin-top: 30px;
+}
+.chef-header img{
+    padding-top: 30px;
+}
+.chef-header h1{
+    font-weight: 900;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+.chef-header p{
+    width: 40%;
+    margin: 20px auto;
+    text-align: center;
+    color: #B8B8B8;
+    font-size: 18px;
+    font-family: 'Halant', sans-serif;
+    line-height: 1.5;
+    word-spacing: 1;
+}
+.chef-inner{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.chef-item img{
+    width: 70%;
+    margin-left: 50px;
+}
+.chef-item h3{
+    color: white;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    text-align: center;
+    margin-top: 20px;
+    font-weight: 900;
+}
+.chef-item p{
+    text-align: center;
+    font-size: 18px;
+    color: #B8B8B8;
+    font-weight: 400;
+    margin-top: 20px;
+}
+.chef-item a{
+    color: yellow;
+    size: 40px;
+    margin: 0 5px;
+}
+.chef-social{
+    display: flex;
+    justify-content: center;        
+}
+.chef-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

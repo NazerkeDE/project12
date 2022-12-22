@@ -1,0 +1,35 @@
+.gallery{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding-left: 160px;
+    padding-right: 160px;
+    padding-bottom: 90px;
+    margin-top: 60px;
+}
+/* .gallery img{
+    width: 33.3%;
+} */
+.gallery-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+}
+.gallery-header{
+    padding-top: 50px;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.gallery-header h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    margin-top: 60px;
+}

@@ -1,0 +1,88 @@
+.book-inner{
+    background-image: url('../../images/bg-pattern.jpg');
+}
+.book-header{
+    padding-top: 50px;
+    text-align: center;
+    width: 40%;
+    margin: 0 auto;
+}
+.book-header h1{
+    color: white;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 900;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    margin-top: 15px;
+}
+.book-block{
+    display: flex;
+    padding-top: 40px;
+}
+.book-left{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 50%;
+    padding: 0 50px;
+}
+.book-right{
+    width: 40%;
+    color: white;
+    background-color: black;
+}
+.book-left label{
+    color: yellow;
+    font-size: 18px;
+}
+.book-left input{
+    width: 100%;
+    height: 30px;
+}
+.left-inp{
+    width: 40%;
+    margin-bottom: 20px;
+}
+.book-btn{
+    padding: 20px 20px;
+    width: 20%;
+    color: black;
+    display: inline-block;
+    background: #FFCC33;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+.book-btn:hover{
+    color: white;
+    background-color: grey;
+    transition: .3s;
+}
+.book-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 10px;
+}
+.book-right h1{
+    text-align: center;
+    font-size: 35px;
+    font-weight: 900;
+    color: yellowgreen;
+}
+.book-right p{
+    margin-top: 20px;
+    font-size: 18px;
+}
+.book-right h3{
+    font-size: 30px;
+    display: block;
+    justify-content: center;
+    margin-top: 35px;
+    color: yellowgreen;
+}

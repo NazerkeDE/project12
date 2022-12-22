@@ -1,0 +1,29 @@
+.dishes{
+    background-color: black;
+    background-size: cover;
+    padding: 100px 0;
+}
+.dishes-inner h1{
+    font-size: 40px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: 900;
+    text-align: center;
+}
+.dishes-text{
+    width: 40%;
+    margin: 0 auto;
+}
+.dishes-inner p{
+    text-align: center;
+    margin: 0 auto;
+    color: #B8B8B8;
+    font-size: 18px;
+    width: 40%;
+    font-family: Hallant, sans-serif;
+}
+.dishes-title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

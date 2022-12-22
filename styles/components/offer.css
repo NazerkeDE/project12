@@ -1,0 +1,33 @@
+.offer{
+    background-image: url("../../images/pizza.png");
+    background-attachment: fixed;
+    background-size: cover;
+    width: 100%;
+    padding: 200px 0;
+}
+.offer p{
+    color: white;
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: 200px;
+    line-height: 1;
+}
+.offer a{
+    color: black;
+    padding: 10px 30px;
+    display: inline-block;
+    background: #FFCC33;
+    margin-top: 30px;
+    text-transform: uppercase;
+    text-decoration: none;
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    border-radius: 10px;
+    margin-left: 200px;
+}
+.offer a:hover{
+    color: white;
+    background-color: grey;
+    transition: .3s;
+}
